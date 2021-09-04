@@ -1,0 +1,1 @@
+With the working directory from the assignment 1, create a new sub directory named ""Sample Project"". Inside the directory create 2 branches. Add new files inside both the branches. Push these files from the branches to remote repo. Perform Merge on these 2 branches.
